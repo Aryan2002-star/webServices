@@ -1,0 +1,8 @@
+Which Types of methods to be used in Which Scenarios:
+1. GET : Retrieve Details froma  resource
+2. POST : Create a NEW RESOURCE
+3. PUT : Update an existing Resource
+4. PATCH : Update a PART of Existing Resource
+5. DELETE : Delete a Resource
+
+Now to validate our bean we add dependency of boot-validation and add @Valid to create user
